@@ -2,6 +2,9 @@
 main:
   - title: "CV"
     url: /cv/
+    
+    - title: "Awards"
+    url: /awards/
 
   - title: "Publications"
     url: /Publications/    
@@ -18,5 +21,4 @@ main:
   - title: "Talks"
     url: /talks/
     
-  - title: "Guide"
-    url: /markdown/
+  
