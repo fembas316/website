@@ -6,12 +6,6 @@ permalink: /archive-layout-with-content/
 
 A variety of common markup showing how the theme styles them.
 
-Year 2020
-•	Ryerson Graduate Scholarship (Chemical Engineering) 
-•	Ryerson Graduate Development Award (Policy Studies) – Declined
-•	SSHRC Insight Grant Research Assistantship (Policy Studies) – Declined
-•	Ryerson Graduate Fellowship (Policy Studies) – Declined
-
 
 # Header one
 
