@@ -4,10 +4,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 redirect_from:
-  - /awards/
-  - /awards.html
+  - /awards
 ---
 
+{% include base_path %}
 
 Year 2020
 ======
