@@ -16,9 +16,9 @@ Education
 | August 2018        | Master of Engineering, [Engineering and Public Policy](https://www.eng.mcmaster.ca/sept/programs/degree-options/mepp/engineering-and-public-policy#:~:text=Co-op%20is%20an%20optional%20component%20of%20the%20Master,as%20a%20mechanism%20for%20recruiting%20talent%20and%20expertise.) | McMaster University | [Gail Krantzberg](https://www.eng.mcmaster.ca/people/faculty/gail-krantzberg), Ph.D & [Sarah Dickson](https://www.eng.mcmaster.ca/civil/people/faculty/sarah-dickson), Ph.D.|
 | December 2009     | Bachelor of Technology, [Chemical Engineering](#)               | Ladoke Akintola University of Technology      | [Oladipupo Ogunleye](https://scholar.google.com.au/citations?user=cW-C47gAAAAJ&hl=en), Ph.D|
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. Chemical Engineering, Ladoke Akintola University of Technology-Nigeria, 2009
+* M.Eng. Engineering and Public Policy, McMaster University-Canada, 2018
+* Ph.D Chemical Engineering, Ryerson University, 2024 (expected)
 
 Work experience
 ======
