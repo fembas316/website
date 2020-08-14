@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Year 2020
-•	Ryerson Graduate Scholarship (Chemical Engineering) 
-•	Ryerson Graduate Development Award (Policy Studies) – Declined
-•	SSHRC Insight Grant Research Assistantship (Policy Studies) – Declined
-•	Ryerson Graduate Fellowship (Policy Studies) – Declined
+======
+* B.Tech. Chemical Engineering, Ladoke Akintola University of Technology-Nigeria, 2009
+* M.Eng. Engineering and Public Policy, McMaster University-Canada, 2018
+* Ph.D Chemical Engineering, Ryerson University, 2024 (expected).
