@@ -8,7 +8,6 @@ redirect_from:
   - /awards.html
 ---
 
-{% include base_path %}
 
 Year 2020
 ======
