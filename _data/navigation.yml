@@ -3,7 +3,7 @@ main:
   - title: "CV"
     url: /cv/
     
-    - title: "Awards"
+  - title: "Awards"
     url: /awards/
 
   - title: "Publications"
@@ -20,5 +20,3 @@ main:
     
   - title: "Talks"
     url: /talks/
-    
-  
