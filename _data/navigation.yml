@@ -3,9 +3,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "CV1"
-    url: /cv/
-    
   - title: "Awards"
     url: /awards/
 
