@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Scholarships&Awards"
-permalink: /scholarships&awards/
+title: "Scholarships"
+permalink: /scholarships/
 author_profile: true
 redirect_from:
   - /resume
