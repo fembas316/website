@@ -26,21 +26,24 @@ Work experience
   {: .small}
 
 
-* 2017-2018: **Collaborative Research (United Nations Institute for Water, Environment, and Health-Canada)
+* **2017-2018: Collaborative Research (United Nations Institute for Water, Environment, and Health-Canada)**
   * Review of regulatory frameworks guiding hydraulic fracturing and groundwater protection
   * Analysis of public health effect of insufficient groundwater quality monitoring in Nigeria
-  * Comparative analysis of Merit brewing water usage with other small-scale breweries and brew pubs, and developed strategies that reduced brewery water consumption by 15%.{: .small}
+  * Comparative analysis of Merit brewing water usage with other small-scale breweries and brew pubs, and developed strategies that reduced brewery water consumption by 15%.
+  {: .small}
   
   
-* 2013-2017: **Chemical Engineer (Department of Petroleum Resources, Nigeria)
-  * Supervised operators and technologists in the treatment, storage, and export of Nigeria’s crude oil {: .small}
-  * Conducted economic and feasibility studies on petroleum exploration and production {: .small}
-  * Conducted evidence-based researches on improving procedure guidelines for the determination of quality and quantity of Nigeria’s petroleum and petroleum products {: .small}
-  * Enforced environmental regulations guiding treatment and discharge of petroleum formation water (wastewater) {: .small}
+* **2013-2017: Chemical Engineer (Department of Petroleum Resources, Nigeria)**
+  * Supervised operators and technologists in the treatment, storage, and export of Nigeria’s crude oil
+  * Conducted economic and feasibility studies on petroleum exploration and production
+  * Conducted evidence-based researches on improving procedure guidelines for the determination of quality and quantity of Nigeria’s petroleum and petroleum products
+  * Enforced environmental regulations guiding treatment and discharge of petroleum formation water (wastewater)
+  {: .small}
   
   
-* 2011-2013: **Process Engineer (Consolidated Breweries Plc., Nigeria)
-  * Optimization of process water treatment plant, through engineering calculations, determining the appropriate treating chemical dosage, resulting in 5% reduced chemical cost {: .small}
-  * Redesigned water treatment maintenance schedules to reduce haze and turbidity in beer, and hence, improved the quality of beer {: .small}
-  * Process modifications improving the quality of beer, through researches into optimum blend of raw materials, leading to 25% increase in sales {: .small}
-  * 20% reduction in thermal energy usage through ensured boiler condensate recovery, reduced convective losses and improved boiler feed water quality. {: .small}
+* **2011-2013: Process Engineer (Consolidated Breweries Plc., Nigeria)**
+  * Optimization of process water treatment plant, through engineering calculations, determining the appropriate treating chemical dosage, resulting in 5% reduced chemical cost 
+  * Redesigned water treatment maintenance schedules to reduce haze and turbidity in beer, and hence, improved the quality of beer
+  * Process modifications improving the quality of beer, through researches into optimum blend of raw materials, leading to 25% increase in sales
+  * 20% reduction in thermal energy usage through ensured boiler condensate recovery, reduced convective losses and improved boiler feed water quality. 
+  {: .small}
