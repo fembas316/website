@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-======
+
 * 2017-till date: Scholarship Enthusiasts Group, Nigeria
   * I provide mentorship to a group of people (20 mentees) in search of local and international postgraduate scholarships. 
   * About 55% of my mentees have been awarded various international scholarships.
