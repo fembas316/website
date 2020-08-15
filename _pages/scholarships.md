@@ -25,13 +25,13 @@ redirect_from:
 2017
 ======
  * [African Leaders of Tomorrow Scholarship](https://cbie.ca/what-we-do/current-programs/african-leaders-of-tomorrow/) (Funded by Global Affairs Canada)
- * MasterCard Foundation Scholars Program, Canada – Declined
- * Nottingham Trent University-Commonwealth Shared Scholarship, United Kingdom – Declined
- * University of Exeter-Commonwealth Shared Scholarship, United Kingdom – Declined
- * University of Portsmouth-Commonwealth Shared Scholarship, United Kingdom – Declined
- * Sheffield Hallam University-Commonwealth Shared Scholarship, United Kingdom – Declined
- * Queen Mary University of London-Commonwealth Shared Scholarship, United Kingdom – Declined
- * Newcastle University-Commonwealth Shared Scholarship, United Kingdom – Declined
+ * [MasterCard Foundation Scholars Program, Canada](https://mastercardfdn.org/all/scholars/) – Declined
+ * [Nottingham Trent University-Commonwealth Shared Scholarship, United Kingdom](https://www.ntu.ac.uk/international/scholarships-and-fees/scholarships/other-funding, http://cscuk.dfid.gov.uk/apply/shared-scholarships/) – Declined
+ * [University of Exeter-Commonwealth Shared Scholarship, United Kingdom](https://www.exeter.ac.uk/studying/funding/award/?id=3616) – Declined
+ * [University of Portsmouth-Commonwealth Shared Scholarship, United Kingdom](https://www.port.ac.uk/study/international-students/funding/scholarships) – Declined
+ * Sheffield Hallam University-Commonwealth Shared Scholarship, United Kingdom(http://cscuk.dfid.gov.uk/apply/shared-scholarships/) – Declined
+ * Queen Mary University of London-Commonwealth Shared Scholarship, United Kingdom(http://cscuk.dfid.gov.uk/apply/shared-scholarships/) – Declined
+ * Newcastle University-Commonwealth Shared Scholarship, United Kingdom(http://cscuk.dfid.gov.uk/apply/shared-scholarships/) – Declined
  {: .small}
 
 2009
