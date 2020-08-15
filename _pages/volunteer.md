@@ -11,12 +11,12 @@ redirect_from:
 
 
 
-* **2018-till date: Beacon Scholar Foundry Initiative, Nigeria**
+* **2018-till date: [Beacon Scholar Foundry Initiative, Nigeria](beaconnigeria.org/)**
   * I reviewed over 30 scholarship application packages; leading to achievement scholarship awards to support brilliant secondary school students in Nigeria
   * I Provide a summary of application strengths and weaknesses. The summary forms a part of the feedback mechanism to each applicant.
   {: .small}
 
-* **2015-till date: Greenviron Nigeria Ltd**
+* **2015-till date: [Greenviron Nigeria Ltd](https://greenviron.wordpress.com/about/)**
   * I was involved in the design, installation, and commissioning of water treatment plants
   * I evaluated and recommended chemical and biological treatment methods for industrial wastewater treatment
   * I designed and organized enlightenment programs on water sanitation, waste segregation, indiscriminate waste disposal and waste recycling.
