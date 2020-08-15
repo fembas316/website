@@ -30,8 +30,8 @@ redirect_from:
  * [University of Exeter-Commonwealth Shared Scholarship, United Kingdom](https://www.exeter.ac.uk/studying/funding/award/?id=3616) – Declined
  * [University of Portsmouth-Commonwealth Shared Scholarship, United Kingdom](https://www.port.ac.uk/study/international-students/funding/scholarships) – Declined
  * [Sheffield Hallam University-Commonwealth Shared Scholarship, United Kingdom](https://www.shu.ac.uk/international/fees-scholarships-and-discounts/scholarships-discounts-and-bursaries/commonwealth-shared-scholarship-scheme) – Declined
- * Queen Mary University of London-Commonwealth Shared Scholarship, United Kingdom(https://www.qmul.ac.uk/scholarships/database/) – Declined
- * Newcastle University-Commonwealth Shared Scholarship, United Kingdom(https://www.ncl.ac.uk/postgraduate/funding/sources/internationalnoneustudents/cwsss.html) – Declined
+ * [Queen Mary University of London-Commonwealth Shared Scholarship, United Kingdom](https://www.qmul.ac.uk/scholarships/database/) – Declined
+ * [Newcastle University-Commonwealth Shared Scholarship, United Kingdom](https://www.ncl.ac.uk/postgraduate/funding/sources/internationalnoneustudents/cwsss.html) – Declined
  {: .small}
 
 2009
