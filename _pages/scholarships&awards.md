@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Scholarships&awards"
+title: "Scholarships&Awards"
 permalink: /scholarships&awards/
 author_profile: true
 redirect_from:
