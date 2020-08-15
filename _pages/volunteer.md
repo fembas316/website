@@ -13,7 +13,7 @@ redirect_from:
 
 * 2018-till date: Beacon Scholar Foundry Initiative, Nigeria
   * I reviewed over 30 scholarship application packages; leading to achievement scholarship awards to support brilliant secondary school students in Nigeria
-  * •	I Provide a summary of application strengths and weaknesses. The summary forms a part of the feedback mechanism to each applicant. 
+  * I Provide a summary of application strengths and weaknesses. The summary forms a part of the feedback mechanism to each applicant. 
 
 * 2015-till date: Greenviron Nigeria Ltd
   * I was Involved in the design, installation, and commissioning of water treatment plants
