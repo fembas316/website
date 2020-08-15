@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+| Date              | Degree | Institution | Supervisor |
+|:--------          |:-------|:--------|
+| December 2024        | Doctor of Philosophy, [Chemical Engineering](https://www.ryerson.ca/chemical/)   | Ryerson University of Calgary   | [Nariman Yousefi](https://www.ryerson.ca/chemical/people/faculty/nariman-yousefi/), Ph.D |
+| August 2018        | Master of Engineering, [Engineering and Public Policy](https://www.eng.mcmaster.ca/sept/programs/degree-options/mepp/engineering-and-public-policy)                   | McMaster University      | [Gail Krantzberg](https://www.eng.mcmaster.ca/people/faculty/gail-krantzberg), Ph.D & [Sarah Dickson](https://www.eng.mcmaster.ca/civil/people/faculty/sarah-dickson), Ph.D. |
+| Dec. 2009     | Bachelor of Technology, [Chemical Engineering](#)               | Ladoke Akintola University of Technology      | [Oladipupo Ogunleye](https://scholar.google.com.au/citations?user=cW-C47gAAAAJ&hl=en), Ph.D |
+
 Education
 ======
 * B.Tech. Chemical Engineering, Ladoke Akintola University of Technology-Nigeria, 2009
