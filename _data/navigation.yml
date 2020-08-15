@@ -9,6 +9,9 @@ main:
   - title: "Volunteer"
     url: /volunteer/
     
+  - title: "Scholarships"
+    url: /scholarships/
+    
   - title: "Awards"
     url: /awards/
 
