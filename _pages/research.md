@@ -12,8 +12,8 @@ redirect_from:
 
 
 * **Publications**
-  * Abioye S, Perera D. (2019). Public health effects due to insufficient groundwater quality monitoring in Igando and Agbowo regions in Nigeria: A review. Sustainable Water Resources Management.: 1-11 
-  * Abioye S, Dickson-Anderson S, Krantzberg G. (2019). Desalination - A potential solution to growing water scarcity: A case study of Middle East and North Africa. Journal of Chemical Engineering and Industrial Biotechnology. 5(5): 1-15.
+  * Abioye S, Perera D. (2019). [Public health effects due to insufficient groundwater quality monitoring in Igando and Agbowo regions in Nigeria: A review](https://link.springer.com/content/pdf/10.1007/s40899-019-00330-5.pdf). Sustainable Water Resources Management.: 1-11 
+  * Abioye S, Dickson-Anderson S, Krantzberg G. (2019). [Desalination - A potential solution to growing water scarcity: A case study of Middle East and North Africa](https://jceib.ump.edu.my/index.php/en/volume-5-docman/104-desalination-a-potential-solution-to-growing-water-scarcity-a-case-study-of-middle-east-and-north-africa/file). Journal of Chemical Engineering and Industrial Biotechnology. 5(5): 1-15.
   {: .small}
 
 * **Manuscripts under review**
