@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Mentoring
+
 ======
 * 2017-till date: Scholarship Enthusiasts Group, Nigeria
   * I provide mentorship to a group of people (20 mentees) in search of local and international postgraduate scholarships. 
