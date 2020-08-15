@@ -19,7 +19,7 @@ redirect_from:
 
 Work experience
 ======
-* **2018-2020: Senior Chemical Engineer [Department of Petroleum Resources](https://www.dpr.gov.ng/)**
+* **2018-2020: Senior Chemical Engineer, [Department of Petroleum Resources](https://www.dpr.gov.ng/)**
   * Reduction in incurred shipping demurrage through improved and efficient operations management
   * 0.5% improvement in crude oil revenue, by consistently developing quality control/assurance mechanisms, maintaining crude’s BS&W below 0.5% in every export
   * Improved production computating accuracy, using MS excel computing programming to eliminate errors, and also reducing production and export computation time
@@ -27,14 +27,14 @@ Work experience
   {: .small}
 
 
-* **2017-2018: Collaborative Research [United Nations Institute for Water, Environment, and Health-Canada](https://inweh.unu.edu/)**
+* **2017-2018: Collaborative Research, [United Nations Institute for Water, Environment, and Health-Canada](https://inweh.unu.edu/)**
   * Review of regulatory frameworks guiding hydraulic fracturing and groundwater protection
   * Analysis of public health effect of insufficient groundwater quality monitoring in Nigeria
   * Comparative analysis of Merit brewing water usage with other small-scale breweries and brew pubs, and developed strategies that reduced brewery water consumption by 15%.
   {: .small}
   
   
-* **2013-2017: Chemical Engineer [Department of Petroleum Resources](https://www.dpr.gov.ng/)**
+* **2013-2017: Chemical Engineer, [Department of Petroleum Resources](https://www.dpr.gov.ng/)**
   * Supervised operators and technologists in the treatment, storage, and export of Nigeria’s crude oil
   * Conducted economic and feasibility studies on petroleum exploration and production
   * Conducted evidence-based researches on improving procedure guidelines for the determination of quality and quantity of Nigeria’s petroleum and petroleum products
@@ -42,7 +42,7 @@ Work experience
   {: .small}
   
   
-* **2011-2013: Process Engineer [Consolidated Breweries Plc., Nigeria](https://nbplc.com/news/?p=67#)**
+* **2011-2013: Process Engineer, [Consolidated Breweries Plc., Nigeria](https://nbplc.com/news/?p=67#)**
   * Optimization of process water treatment plant, through engineering calculations, determining the appropriate treating chemical dosage, resulting in 5% reduced chemical cost 
   * Redesigned water treatment maintenance schedules to reduce haze and turbidity in beer, and hence, improved the quality of beer
   * Process modifications improving the quality of beer, through researches into optimum blend of raw materials, leading to 25% increase in sales
