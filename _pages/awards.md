@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Awards"
-permalink: /awards/
+title: "Volunteer and Community Activities"
+permalink: /volunteer/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,22 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.Tech. Chemical Engineering, Ladoke Akintola University of Technology-Nigeria, 2009
-* M.Eng. Engineering and Public Policy, McMaster University-Canada, 2018
-* Ph.D Chemical Engineering, Ryerson University, 2024 (expected).
 
-Work experience
-======
-* 2018-2020: Senior Chemical Engineer (Department of Petroleum Resources, Nigeria)
-  * Reduction in incurred shipping demurrage through improved and efficient operations management
-  * 0.5% improvement in crude oil revenue, by consistently developing quality control/assurance mechanisms, maintaining crude’s BS&W below 0.5% in every export
-  * Improved production computating accuracy, using MS excel computing programming to eliminate errors, and also reducing production and export computation time
-  * Improved market integrity, by adopting API standards, ASTM and other international standards in the review and update of procedure guidelines and operating procedures. 
 
-* 2017-2018: Collaborative Research (United Nations Institute for Water, Environment, and Health-Canada)
-  * Review of regulatory frameworks guiding hydraulic fracturing and groundwater protection
-  * Analysis of public health effect of insufficient groundwater quality monitoring in Nigeria
-  * Comparative analysis of Merit brewing water usage with other small-scale breweries and brew pubs, and developed strategies that reduced brewery water consumption by 15%.
+* 2018-till date: Beacon Scholar Foundry Initiative, Nigeria
+  * I reviewed over 30 scholarship application packages; leading to achievement scholarship awards to support brilliant secondary school students in Nigeria
+  * I Provide a summary of application strengths and weaknesses. The summary forms a part of the feedback mechanism to each applicant. 
+
+* 2015-till date: Greenviron Nigeria Ltd
+  * I was Involved in the design, installation, and commissioning of water treatment plants
+  * I evaluated and recommended chemical and biological treatment methods for industrial wastewater treatment
+  * I designed and organized enlightenment programs on water sanitation, waste segregation, indiscriminate waste disposal and waste recycling.
   
+* 2005-till date: Juvenile Leadership Program, Nigeria
+  * I Render support to Nigerian youths through training, education, counseling, and information sharing
+  * I organize free tutorials to train and prepare less privileged youths for requisite examinations to pursue higher education
+  *	I solicited financial aid of about $4000 to support scholarship awards to 20 high school students in Nigeria
+  *	I encourage volunteerism in youths, and their involvement in issues affecting them.
+  *	I establish opportunities for youths to contribute individually and collectively to national development.
