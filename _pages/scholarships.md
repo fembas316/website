@@ -15,10 +15,12 @@ redirect_from:
 * Ryerson Graduate Development Award (Policy Studies) – Declined
 *	SSHRC Insight Grant Research Assistantship (Policy Studies) – Declined
 * Ryerson Graduate Fellowship (Policy Studies) – Declined
+{: .small}
 
 2018
 ======
 * H. Vincent Elliott Memorial Travel Bursary
+{: .small}
 
 2017
 ======
@@ -30,7 +32,9 @@ redirect_from:
  * Sheffield Hallam University-Commonwealth Shared Scholarship, United Kingdom – Declined
  * Queen Mary University of London-Commonwealth Shared Scholarship, United Kingdom – Declined
  * Newcastle University-Commonwealth Shared Scholarship, United Kingdom – Declined
+ {: .small}
 
 2009
 ======
  * Departmental Best Student Merit Award, Ladoke Akintola University, Nigeria
+ {: .small}
