@@ -20,19 +20,17 @@ redirect_from:
 ======
 * H. Vincent Elliott Memorial Travel Bursary
 
+2018
+======
+ * African Leaders of Tomorrow Scholarship (Funded by Global Affairs Canada)
+ * MasterCard Foundation Scholars Program (Declined), Canada
+ * Nottingham Trent University-Commonwealth Shared Scholarship, United Kingdom (Declined)
+ * University of Exeter-Commonwealth Shared Scholarship, United Kingdom (Declined)
+ * University of Portsmouth-Commonwealth Shared Scholarship, United Kingdom (Declined)
+ * Sheffield Hallam University-Commonwealth Shared Scholarship, United Kingdom (Declined)
+ * Queen Mary University of London-Commonwealth Shared Scholarship, United Kingdom (Declined)
+ * Newcastle University-Commonwealth Shared Scholarship, United Kingdom (Declined)
 
-* 2018-till date: Beacon Scholar Foundry Initiative, Nigeria
-  * I reviewed over 30 scholarship application packages; leading to achievement scholarship awards to support brilliant secondary school students in Nigeria
-  * I Provide a summary of application strengths and weaknesses. The summary forms a part of the feedback mechanism to each applicant. 
-
-* 2015-till date: Greenviron Nigeria Ltd
-  * I was Involved in the design, installation, and commissioning of water treatment plants
-  * I evaluated and recommended chemical and biological treatment methods for industrial wastewater treatment
-  * I designed and organized enlightenment programs on water sanitation, waste segregation, indiscriminate waste disposal and waste recycling.
-  
-* 2005-till date: Juvenile Leadership Program, Nigeria
-  * I Render support to Nigerian youths through training, education, counseling, and information sharing
-  * I organize free tutorials to train and prepare less privileged youths for requisite examinations to pursue higher education
-  *	I solicited financial aid of about $4000 to support scholarship awards to 20 high school students in Nigeria
-  *	I encourage volunteerism in youths, and their involvement in issues affecting them.
-  *	I establish opportunities for youths to contribute individually and collectively to national development.
+2009
+======
+ * Departmental Best Student Merit Award, Ladoke Akintola University, Nigeria
