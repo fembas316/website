@@ -9,22 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Mentoring
 ======
-* B.Tech. Chemical Engineering, Ladoke Akintola University of Technology-Nigeria, 2009
-* M.Eng. Engineering and Public Policy, McMaster University-Canada, 2018
-* Ph.D Chemical Engineering, Ryerson University, 2024 (expected).
+* 2017-till date: Scholarship Enthusiasts Group, Nigeria
+  * I provide mentorship to a group of people (20 mentees) in search of local and international postgraduate scholarships. 
+  * About 55% of my mentees have been awarded various international scholarships.
 
-Work experience
-======
-* 2018-2020: Senior Chemical Engineer (Department of Petroleum Resources, Nigeria)
-  * Reduction in incurred shipping demurrage through improved and efficient operations management
-  * 0.5% improvement in crude oil revenue, by consistently developing quality control/assurance mechanisms, maintaining crude’s BS&W below 0.5% in every export
-  * Improved production computating accuracy, using MS excel computing programming to eliminate errors, and also reducing production and export computation time
-  * Improved market integrity, by adopting API standards, ASTM and other international standards in the review and update of procedure guidelines and operating procedures. 
-
-* 2017-2018: Collaborative Research (United Nations Institute for Water, Environment, and Health-Canada)
-  * Review of regulatory frameworks guiding hydraulic fracturing and groundwater protection
-  * Analysis of public health effect of insufficient groundwater quality monitoring in Nigeria
-  * Comparative analysis of Merit brewing water usage with other small-scale breweries and brew pubs, and developed strategies that reduced brewery water consumption by 15%.
+* 2018-2020: Department of Petroleum Resources, Nigeria
+  * I was responsible for bringing the newly recruited engineers in my department up to speed
+  * I provided training and guidance to the ten (10) recruits assigned to me, in two batches of 5 mentees per batch
+  * I  provided feedback both on each mentee. The feedback provided an avenue for self appraisal, identifying areas of strengths and weaknesses
+  *	I designed Individual training and developmental plans for the mentees, and followed through the plans.
   
+* 2006-2009: Ladoke Akintola University of Technology, Nigeria
+  * I provided academic mentorship to students, particularly targeting new students
+  * I fixed a large number of students into different academic mentoring sub-groups, within my academic network through which I mentored 24 students to academic excellence
