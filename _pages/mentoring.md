@@ -24,3 +24,4 @@ redirect_from:
 * 2006-2009: Ladoke Akintola University of Technology, Nigeria
   * I provided academic mentorship to students, particularly targeting new students
   * I fixed a large number of students into different academic mentoring sub-groups, within my academic network through which I mentored 24 students to academic excellence
+  *	I organized various training, including soft skill trainings and several trainings on the use of engineering process software and computer aided design.
