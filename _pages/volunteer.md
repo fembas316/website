@@ -17,13 +17,13 @@ redirect_from:
   {: .small}
 
 * **2015-till date: Greenviron Nigeria Ltd**
-  * I was Involved in the design, installation, and commissioning of water treatment plants
+  * I was involved in the design, installation, and commissioning of water treatment plants
   * I evaluated and recommended chemical and biological treatment methods for industrial wastewater treatment
   * I designed and organized enlightenment programs on water sanitation, waste segregation, indiscriminate waste disposal and waste recycling.
   {: .small}
   
 * **2005-till date: Juvenile Leadership Program, Nigeria**
-  * I Render support to Nigerian youths through training, education, counseling, and information sharing
+  * I render support to Nigerian youths through training, education, counseling, and information sharing
   * I organize free tutorials to train and prepare less privileged youths for requisite examinations to pursue higher education
   *	I solicited financial aid of about $4000 to support scholarship awards to 20 high school students in Nigeria
   *	I encourage volunteerism in youths, and their involvement in issues affecting them.
