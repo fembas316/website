@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+2020
+======
+* Ryerson Graduate Scholarship (Chemical Engineering) 
+* Ryerson Graduate Development Award (Policy Studies) – Declined
+*	SSHRC Insight Grant Research Assistantship (Policy Studies) – Declined
+* Ryerson Graduate Fellowship (Policy Studies) – Declined
+
+2018
+======
+* H. Vincent Elliott Memorial Travel Bursary
 
 
 * 2018-till date: Beacon Scholar Foundry Initiative, Nigeria
