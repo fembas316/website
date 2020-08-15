@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Volunteer"
+title: "Volunteer and Community Activities"
 permalink: /volunteer/
 author_profile: true
 redirect_from:
