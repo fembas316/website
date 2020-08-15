@@ -13,10 +13,7 @@ main:
     url: /scholarships/
     
   - title: "Research"
-    url: /research/
-  
-  - title: "Publications"
-    url: /Publications/    
+    url: /research/ 
 
   - title: "Teaching"
     url: /teaching/    
