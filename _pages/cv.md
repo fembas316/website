@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-{: .large}
+======
 
 | Date              | Degree | Institution | Supervisor |
 |:--------          |:-------|:--------|
