@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+Education
 ======
 | Date              | Degree | Institution | Supervisor |
 |:--------          |:-------|:--------|
