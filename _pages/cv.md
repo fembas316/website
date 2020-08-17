@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-###
+### Education
+
 | Date              | Degree | Institution | Supervisor |
 |:--------          |:-------|:--------|
 | December 2024        | Doctor of Philosophy, [Chemical Engineering](https://www.ryerson.ca/chemical/)   | Ryerson University of Calgary   | [Nariman Yousefi](https://www.ryerson.ca/chemical/people/faculty/nariman-yousefi/), Ph.D |
